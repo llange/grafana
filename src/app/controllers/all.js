@@ -9,6 +9,7 @@ define([
   './graphiteTarget',
   './graphiteImport',
   './influxTargetCtrl',
+  './kairosDbTargetCtrl',
   './playlistCtrl',
   './inspectCtrl',
 ], function () {});
